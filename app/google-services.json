@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "701843118775",
+    "project_id": "dansjob",
+    "storage_bucket": "dansjob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701843118775:android:3c322e1873d68e99cb8b32",
+        "android_client_info": {
+          "package_name": "com.developer.aitek.dansjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701843118775-ddm9ov1jhsgh8u12r35taf7l3kdi5s1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.aitek.dansjob",
+            "certificate_hash": "8656e7a06bb795fdc9889566c80f53a4653a5d38"
+          }
+        },
+        {
+          "client_id": "701843118775-pj17a0ekm5v4ebp679ftt399g87cmfpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPLZCvNUUsrtMlMbbrCEhFrJjazZs4hRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701843118775-pj17a0ekm5v4ebp679ftt399g87cmfpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

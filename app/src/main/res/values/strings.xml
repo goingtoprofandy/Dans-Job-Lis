@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dans Job</string>
+    <string name="moves">Moves</string>
+    <string name="types">Types</string>
+    <string name="enter_pokemon_name">Masukkan Nama Pokemon</string>
+    <string name="apply_job">Apply This Job</string>
+    <string name="description">Description</string>
+    <string name="how_to_apply">How To Apply</string>
+    <string name="home_item">Home Item</string>
+    <string name="search_job_here">Search Job Here..</string>
+    <string name="type_location">Type Location</string>
+    <string name="full_time">Full Time</string>
+    <string name="search_job">Search Job</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="logout">Logout</string>
+
+    <string name="facebook_app_id">209082961844971</string>
+    <string name="fb_login_protocol_scheme">fb209082961844971</string>
+    <string name="facebook_client_token">c9cbf30e465fa8e42928203a97f68faf</string>
+</resources>
